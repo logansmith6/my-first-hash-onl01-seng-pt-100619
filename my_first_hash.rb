@@ -42,4 +42,3 @@ return shipping_manifest["oil paintings"]
   # return the shipping_manifest hash below
 
 end
-
